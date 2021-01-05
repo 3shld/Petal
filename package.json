@@ -15,7 +15,7 @@
   "license": "MIT",
   "homepage": ".",
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "mpris-service": "^2.1.0",
     "nedb": "^1.8.0",
     "prop-types": "^15.7.2",
